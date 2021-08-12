@@ -4,7 +4,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Python"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "physical"
+  - title: "physic"
     url: /year-archive/
   - title: "chemical"
     url: /collection-archive/
