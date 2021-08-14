@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "C++단계별 문제풀이 github link"
-summary: github
-author: Oh Yeo Jin
-date: '2021-08-14 16:29:23 +0530'
-category: C
+title:  "백준알고리즘 단계별 문제풀이 C++ 솔루션"
+excerpt: "백준알고리즘 단계별 문제풀이"
 
+categories:
+  - C
+tags:
+  - C, C++
+last_modified_at: 2021-08-14T08:06:00-05:00
 ---
+
 
 # 백준알고리즘 단계별 문제풀이 C++ 솔루션
 
