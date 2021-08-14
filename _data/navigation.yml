@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "C"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /C/
   - title: "Python"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "physics"
-    url: /year-archive/
-  - title: "chemical"
-    url: /collection-archive/
+    url: /Python/
+  - title: "Physics"
+    url: /Physics/
+  - title: "Chemical"
+    url: /Chemical/
 #   - title: "Sitemap"
    #  url: /sitemap/
