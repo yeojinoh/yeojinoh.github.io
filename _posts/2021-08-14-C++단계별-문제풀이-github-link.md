@@ -5,7 +5,8 @@ excerpt: "백준알고리즘 단계별 문제풀이"
 categories:
   - C
 tags:
-  - C, C++
+  - C
+  - C++
 last_modified_at: 2021-08-14T08:06:00-05:00
 ---
 
