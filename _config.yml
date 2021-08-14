@@ -107,8 +107,8 @@ author:
   location         : "Republic of korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
      #  url: "mailto: oyj5420@naver.com"
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
@@ -119,12 +119,12 @@ author:
    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
   #     url: "yeojinoh"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/mercy_on_redcarpet/"
+ #   - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #     url: "https://www.instagram.com/mercy_on_redcarpet/"
 
 # Site Footer
 footer:
