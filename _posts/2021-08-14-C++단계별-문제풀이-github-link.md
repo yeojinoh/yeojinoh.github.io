@@ -10,6 +10,6 @@ category: C
 
 #백준알고리즘 단계별 문제풀이 C++ 솔루션
 
-https://github.com/yeojinoh/Baekjoon
+{{https://github.com/yeojinoh/Baekjoon}}
 
 링크에 단계별 솔루션이 cpp파일로 정리되어있다.
