@@ -12,25 +12,25 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Yeo JIn archive"
+title                    : "Yeo Jin's Archieve"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Oh Yeo Jin"
-description              : "C, Python, Physics, Chemical, English"
-url                      : https://yeojinoh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Yeo Jin Oh"
+description              : "C/Python/Physics/Chemistry/English"
+url                      : "https://yeojinoh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : yeojinoh/yeojinoh.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yeojinoh/yeojinoh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -59,9 +59,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : google # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -101,27 +101,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oh Yeo Jin"
+  name             : "Yeo Jin Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "단국대 전자전기공학과 21학번"
+  bio              : "Dankook University Electrical and Electronic Engineering"
   location         : "Republic of korea"
-  email            : "susan5315@naver.com"
+  email            :
   links:
-  #   - label: "Email" 
-   #    icon: "fas fa-fw fa-envelope-square"
-    #    url: "mailto : susan5315@naver.com"
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:oyj5420@naver.com"
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    #- label: "Facebook"
+   # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
- #   - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/yeojinoh/yeojinoh.github.io"
+       url: "yeojinoh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        url: "https://www.instagram.com/mercy_on_redcarpet/"
@@ -129,20 +129,20 @@ author:
 # Site Footer
 footer:
   links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-    #- label: "Facebook"
-   #   icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-  #  - label: "GitLab"
-  #    icon: "fab fa-fw fa-gitlab"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
-   # - label: "Bitbucket"
-   #   icon: "fab fa-fw fa-bitbucket"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -283,7 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
