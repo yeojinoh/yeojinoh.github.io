@@ -1,7 +1,7 @@
 ---
-layout: Chemistry
 permalink: /Chemistry/
 title: "Chemistry"
-author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Chemistry"
 ---
-start
