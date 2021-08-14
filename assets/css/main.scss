@@ -6,10 +6,8 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
 
-@font-face {
-    font-family: 'RIDIBatang';
-    src: url('/assets/fonts/RIDIBatang.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+.nanummyeongjo * {
+ font-family: 'Nanum Myeongjo', serif;
 }
