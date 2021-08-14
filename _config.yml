@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "yeojinoh"
+  #     url: "yeojinoh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        url: "https://www.instagram.com/mercy_on_redcarpet/"
