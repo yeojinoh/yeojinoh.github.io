@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /English
+permalink: /English/
 title: "English"
 sidebar_main: true
 ---

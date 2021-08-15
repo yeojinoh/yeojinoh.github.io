@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Chemistry
+permalink: /Chemistry/
 title: "Chemistry"
 sidebar_main: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Physics
+permalink: /Physics/
 title: "Physics"
 sidebar_main: true
 ---
