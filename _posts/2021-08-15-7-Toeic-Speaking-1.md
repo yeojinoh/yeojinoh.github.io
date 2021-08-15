@@ -17,45 +17,22 @@ last_modified_at: 2021-08-15
 1차시에서 배운 내용중 아는거는 스킵하고 헷갈릴만한것만 모으겠다.
 
 #### 1. 시간전치사
-<table>
-  <tr>
-    <td rowspan="3">at</td>
-    <td>at 7 o'clock
-  </tr>
-  <tr>
-    <td>at the beginning of April
-  </tr>
-    <td>at lunch
-  </tr>
-    <td rowspan="3">on</td>
-    <td>on May
-  </tr>
-    <td>on the weekend
-  </tr>
-    <td>on Friday morning
-  </tr>
-    <tr>
-    <td rowspan="4">in</td>
-    <td>in 2012
-  </tr>
-    <td>in September
-  </tr>
-    <td>in the morning/afternoon/evening
-  </tr>
-   <td>in summer
-  </tr>
-    <tr>
-    <td rowspan="3">by</td>
-    <td>by 11 A.M.
-  </tr>
-    <td>by july 7
-  </tr>
-    <td>by nexy Monday
-  </tr>
-    <tr>
-    <td>from~to(until)~</td>
-    <td>from 1:30 P.M. to (until) 3:30 P.M.
-</table>
+|전치사|예문|
+|---|---|
+|at|at 7 o'clock|
+||at the beginning of April|
+||at lunch|
+|in|in 2012|
+||in the morning/afternoon/evening|
+||in September|
+||in summer|
+|on|on May|
+||on the weekend|
+||on Friday morning|
+|by|by 11 A.M.|
+||by july 7|
+||by nexy Monda|
+|from ~ to(until) ~|from 1:30 P.M. to (until) 3:30 P.M.|
 
 #### 2. 장소전치사
 ![image](https://user-images.githubusercontent.com/84630434/129466718-82e65d69-1a18-4ef1-acfb-40dcd911d682.png)
