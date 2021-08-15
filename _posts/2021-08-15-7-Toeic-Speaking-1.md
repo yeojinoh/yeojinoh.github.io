@@ -17,6 +17,7 @@ last_modified_at: 2021-08-15
 1차시에서 배운 내용중 아는거는 스킵하고 헷갈릴만한것만 모으겠다.
 
 #### 1. 시간전치사
+
 |전치사|예문|
 |---|---|
 |at|at 7 o'clock|
@@ -41,6 +42,7 @@ last_modified_at: 2021-08-15
 ![image](https://user-images.githubusercontent.com/84630434/129466743-a677ecf4-8ac0-426a-acf9-675329cd2e5f.png)
 
 #### 4. 부사절 전치사 
+
 |뜻|영어|
 |---|---|
 |이유|ecause, since, as |
