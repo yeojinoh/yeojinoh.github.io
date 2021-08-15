@@ -7,6 +7,11 @@ categories:
 tags:
   - C
   - C++
+
+toc: true
+toc_sticky: true
+sidebar_main: true
+
 last_modified_at: 2021-08-14T08:06:00-05:00
 ---
 
