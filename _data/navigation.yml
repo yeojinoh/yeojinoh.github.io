@@ -8,5 +8,5 @@ main:
     url: /Physics/
   - title: "Chemistry"
     url: /Chemistry/
- #  - title: "Archive"
-  #   url: /year-archive/
+  - title: "English"
+    url: /English/
