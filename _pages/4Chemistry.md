@@ -1,6 +1,6 @@
 ---
-layout: archive
-permalink: categories/Chemistry
+layout: categories
+permalink: /Chemistry/
 title: "Chemistry"
 sidebar_main: true
 ---

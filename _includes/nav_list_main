@@ -18,35 +18,35 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "C" %}
-                        <li><a href="/categories/C" class="">C ({{category[1].size}})</a></li>
+                        <li><a href="/C" class="">C ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python" %}
-                        <li><a href="/categories/Python" class=""Python ({{category[1].size}})</a></li>
+                        <li><a href="/Python" class=""Python ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Physics" %}
-                        <li><a href="/categories/Physics" class="">Physics ({{category[1].size}})</a></li>
+                        <li><a href="/Physics" class="">Physics ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Chemistry" %}
-                        <li><a href="/categories/Chemistry" class="">Chemistry ({{category[1].size}})</a></li>
+                        <li><a href="/Chemistry" class="">Chemistry ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "English" %}
-                        <li><a href="/categories/English" class="">English ({{category[1].size}})</a></li>
+                        <li><a href="/English" class="">English ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
