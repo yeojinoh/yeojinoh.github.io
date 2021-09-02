@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /Python/
+permalink: /DSC/
 title: "Dan"
 sidebar_main: true
 ---
