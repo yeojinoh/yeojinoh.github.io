@@ -1,6 +1,6 @@
 ---
 layout: categories
 permalink: /Python/
-title: "Python"
+title: "Dan"
 sidebar_main: true
 ---
