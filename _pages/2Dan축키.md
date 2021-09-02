@@ -1,6 +1,6 @@
 ---
 layout: categories
 permalink: /DSC/
-title: "Dan"
+title: "Dan축키"
 sidebar_main: true
 ---
