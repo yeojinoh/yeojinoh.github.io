@@ -20,7 +20,7 @@ title                    : "Yeo Jin's Archive"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeo Jin Oh"
-description              : "C/Python/Physics/Chemistry/English"
+description              : "Dan축키 개발자 <p> C/Dan축키/Physics/Chemistry/English"
 url                      : "https://yeojinoh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yeojinoh/yeojinoh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

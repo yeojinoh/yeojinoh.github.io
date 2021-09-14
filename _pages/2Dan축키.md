@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /Python/
-title: "Python"
+permalink: /DSC/
+title: "Dan축키"
 sidebar_main: true
 ---
