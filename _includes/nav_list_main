@@ -24,13 +24,6 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Python" %}
-                        <li><a href="/Python" class=""Python ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
                     {% if category[0] == "Physics" %}
                         <li><a href="/Physics" class="">Physics ({{category[1].size}})</a></li>
                     {% endif %}
