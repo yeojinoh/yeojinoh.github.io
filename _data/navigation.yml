@@ -2,8 +2,6 @@
 main:
   - title: "C"
     url: /C/
-  - title: "Python"
-    url: /Python/
   - title: "Physics"
     url: /Physics/
   - title: "Chemistry"
