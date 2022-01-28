@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /Chemistry/
-title: "Chemistry"
+permalink: /extra/
+title: "extra"
 sidebar_main: true
 ---

@@ -2,9 +2,9 @@
 main:
   - title: "C"
     url: /C/
-  - title: "Physics"
-    url: /Physics/
-  - title: "Chemistry"
-    url: /Chemistry/
+  - title: "python"
+    url: /python/
+  - title: "extra"
+    url: /extra/
   - title: "English"
     url: /English/

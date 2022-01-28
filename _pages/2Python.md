@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /Physics/
-title: "Physics"
+permalink: /python/
+title: "python"
 sidebar_main: true
 ---
